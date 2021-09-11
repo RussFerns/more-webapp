@@ -1,4 +1,19 @@
 {
-    "name": "more-webapp",
-    "version": "1.0.0"
+  "name": "more_webapp",
+  "version": "1.0.0",
+  "description": "MORE Web Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RussFerns/more-webapp.git"
+  },
+  "author": "Russel Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RussFerns/more-webapp/issues"
+  },
+  "homepage": "https://github.com/RussFerns/more-webapp#readme"
 }
